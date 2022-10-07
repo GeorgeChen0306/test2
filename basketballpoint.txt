@@ -1,6 +1,7 @@
 # Blender v2.71 (sub 0) OBJ File: 'basketball.blend'
 # www.blender.org
 mtllib basketball.mtl
+o Sphere
 v -0.899109 1.399761 0.105568
 v -0.896535 1.396365 0.136036
 v -0.878016 1.443366 0.109591
